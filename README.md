@@ -13,18 +13,26 @@ https://adsa-photography.netlify.app
 # 📱 Features
 
 📝 Display blog posts dynamically
+
 🔎 View detailed post content
+
 🖼️ Clean and responsive design
+
 ⚡ Simple and smooth navigation
+
 📂 Reusable components (Navbar, Footer)
 
 ---
 # 🛠️ Tech Stack
 
 React – Frontend framework
+
 JavaScript (ES6) – App logic
+
 HTML5 / CSS3 – Structure and styling
+
 React Router – Dynamic routing
+
 Local JSON (posts.json) – Data source
 
 ---
