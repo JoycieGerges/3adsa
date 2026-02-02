@@ -1,13 +1,13 @@
-# 📸 Adsa
+# 📸 3adsa
 
-Adsa is a clean and modern photography blog built with React. It showcases articles and posts about photography tips, techniques, and inspirations. All posts are dynamically loaded from posts.json, with smooth navigation using reusable components like Navbar and Footer.
+3adsa is a clean and modern photography blog built with React. It showcases articles and posts about photography tips, techniques, and inspirations. All posts are dynamically loaded from posts.json, with smooth navigation using reusable components like Navbar and Footer.
 
 ---
 
 # 🌐 Live Demo
 
 Check out the live website here:
-https://adsa-photography.netlify.app
+[https://adsa-photography.netlify.app](https://3adsa-cmjc.vercel.app/)
 
 ---
 # 📱 Features
