@@ -1,16 +1,54 @@
-# React + Vite
+# 📸 Adsa
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Adsa is a clean and modern photography blog built with React. It showcases articles and posts about photography tips, techniques, and inspirations. All posts are dynamically loaded from posts.json, with smooth navigation using reusable components like Navbar and Footer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🌐 Live Demo
 
-## React Compiler
+Check out the live website here:
+https://adsa-photography.netlify.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
+# 📱 Features
 
-## Expanding the ESLint configuration
+📝 Display blog posts dynamically
+🔎 View detailed post content
+🖼️ Clean and responsive design
+⚡ Simple and smooth navigation
+📂 Reusable components (Navbar, Footer)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+# 🛠️ Tech Stack
+
+React – Frontend framework
+JavaScript (ES6) – App logic
+HTML5 / CSS3 – Structure and styling
+React Router – Dynamic routing
+Local JSON (posts.json) – Data source
+
+---
+
+# 🚀 Getting Started
+
+To run the project locally:
+
+Clone the repository or download the project files
+
+Run npm install to install dependencies
+
+Run npm start to launch the app
+
+Open http://localhost:3000 in your browser
+
+---
+
+# 🧠 Author
+
+Developed by Joycie Gerges
+
+📧 Email: joyciegerges@gmail.com
+
+🌐 Portfolio: https://joycieportfolio.netlify.app/
+
+🔗 LinkedIn: https://www.linkedin.com/in/joycie-gerges-b45514248
